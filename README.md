@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 SyncodeX  
+#  SyncodeX  
 
 **The Future of Real-Time Collaborative Coding, Powered by AI**
 
@@ -90,18 +90,6 @@ Whether you’re:
 
 ---
 
-## 🛠️ Installation & Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/syncodex.git
-
-# Install dependencies for client and server
-cd client && npm install
-cd ../server && npm install
-
-# Run development servers
-npm run dev
 
 
 📓 Markdown-Powered Notes: A collaborative space for notes, documentation, and brainstorming.
